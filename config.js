@@ -12,8 +12,8 @@
 ─██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██──██░░██──██████████░░██──────██░░██──────██░░░░░░░░░░██──██░░░░░░░░░░██────████░░████────██░░░░░░░░░░██──██░░██──██░░░░░░██─ 
 ─██████████████──██████████──██████████████──██████████████──██████──────────██████──────██████──────██████████████──██████████████──────██████──────██████████████──██████──██████████─ 
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
-created by Silent_lover432 🕵
-contact me 923096287432 ♻️
+Follow on telegram channel ES SOLUTIONS 🇺🇬
+contact me 256746527403 ♻️
 © Copy coder alert ⚠
 */
 
@@ -52,7 +52,7 @@ module.exports = {
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "false",
-    HEART_REACT: process.env.HEART_REACT || "true",
+    HEART_REACT: process.env.HEART_REACT || "false",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "0746527403",
     OWNER_NAME: process.env.OWNER_NAME || "Eansensor ES solutions 🇺🇬",
     READ_CMD: process.env.READ_CMD || "true",
