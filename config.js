@@ -31,7 +31,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~iAky1KAA#p8fE4ASsynIFmfOkE1g5JXE_wtSs-ltQFXemrPR3jZw",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~mIVASC6Q#Tlh_mtkBDjfoI3RwR6o4vXvH_A6uLUT9h3UJB-l3YBo",
     CAPTION: process.env.CAPTION || "POWERED BY Eansensor ES solutions",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
@@ -44,7 +44,7 @@ module.exports = {
     ALIVE_MSG: process.env.ALIVE_MSG || "false",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_CALL: process.env.ANTI_CALL || "true",
-    BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "true",
+    BAD_NUMBER_BLOCKER: process.env.BAD_NUMBER_BLOCKER || "false",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
