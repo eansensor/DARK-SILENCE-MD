@@ -1,6 +1,6 @@
 {
-  "name": "DARK-SILENCE-MD",
-  "description": "JAVASCRIPT WHATSAPP BOT PROJECT POWERD BY SILENTLOVER432 ♥️",
+  "name": "Eansensor ES solutions 🇺🇬",
+  "description": "JAVASCRIPT WHATSAPP BOT PROJECT Eansensor ES solutions 🇺🇬 ♥️",
   "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -20,7 +20,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻 𝔸𝕃𝕀𝕍𝔼 ℕ𝕆𝕎 🤍💫💨"
+      "value": "Eansensor ES solutions 🇺🇬💨"
     },
     
     "PREFIX": {
@@ -92,7 +92,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦𝐃𝐀𝐑𝐊-𝐒𝐈𝐋𝐄𝐍𝐂𝐄-𝐌𝐃✦"
+      "value": "✦Eansensor ES solutions 🇺🇬✦"
     }, 
 
     "HEART_REACT": {
@@ -110,7 +110,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐈𝐋𝐄𝐍𝐓𝐋𝐎𝐕𝐄𝐑432"
+      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 Eansensor ES solutions 🇺🇬"
     }, 
     
     "STATUS_REPLY": {
